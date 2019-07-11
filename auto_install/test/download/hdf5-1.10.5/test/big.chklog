@@ -1,0 +1,59 @@
+============================
+ big  Test Log
+============================
+Testing big file with the SEC2 Driver 
+Testing Extra large dataset write(4GB)                                 PASSED
+#000 0x000000001ae8e05e                                                PASSED
+#001 0x000000000194c1cc                                                PASSED
+#002 0x000000002b8dca0e                                                PASSED
+#003 0x000000002f03501a                                                PASSED
+#004 0x00000000030f6696                                                PASSED
+#005 0x000000000df3d6c0                                                PASSED
+#006 0x0000000003632dce                                                PASSED
+#007 0x000000001784ed90                                                PASSED
+#008 0x0000000031dc8945                                                PASSED
+#009 0x00000000269ca585                                                PASSED
+#010 0x000000002ea67f1b                                                PASSED
+#011 0x000000003f13587c                                                PASSED
+#012 0x00000000188c56d7                                                PASSED
+#013 0x0000000013106e10                                                PASSED
+#014 0x0000000001dacf82                                                PASSED
+#015 0x000000003f4c6d38                                                PASSED
+#016 0x0000000002b4b808                                                PASSED
+#017 0x0000000023d290e6                                                PASSED
+#018 0x000000000706f670                                                PASSED
+#019 0x0000000020421b8b                                                PASSED
+#020 0x000000002dec7381                                                PASSED
+#021 0x00000000106e9dca                                                PASSED
+#022 0x000000001acdf718                                                PASSED
+#023 0x0000000008de383a                                                PASSED
+#024 0x000000000919e0b6                                                PASSED
+#025 0x000000001522125c                                                PASSED
+#026 0x0000000012e0576c                                                PASSED
+#027 0x00000000284a5fa0                                                PASSED
+#028 0x000000002f9fe500                                                PASSED
+#029 0x000000000a2ed126                                                PASSED
+#030 0x000000002a7cbeee                                                PASSED
+#031 0x0000000001a6c860                                                PASSED
+#032 0x000000003b80fe99                                                PASSED
+#033 0x000000000b380b6f                                                PASSED
+#034 0x000000002e6daf40                                                PASSED
+#035 0x000000003fe7e8a0                                                PASSED
+#036 0x00000000291d0e1b                                                PASSED
+#037 0x000000000a7053b7                                                PASSED
+#038 0x000000003c6a2636                                                PASSED
+#039 0x000000001a323c98                                                PASSED
+#040 0x000000001eab6760                                                PASSED
+#041 0x0000000037aef15b                                                PASSED
+#042 0x000000001f028f9b                                                PASSED
+#043 0x000000001e070b4c                                                PASSED
+#044 0x0000000021e0ad38                                                PASSED
+#045 0x000000003304b120                                                PASSED
+#046 0x000000001fb03978                                                PASSED
+#047 0x000000001b0b395e                                                PASSED
+#048 0x000000002a919b16                                                PASSED
+#049 0x000000003068d942                                                PASSED
+Test passed with the SEC2 Driver.
+
+Finished testing big 
+============================

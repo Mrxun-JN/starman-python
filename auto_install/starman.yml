@@ -1,0 +1,9 @@
+---
+install_root: "/home/xun/auto_install/test/temp"
+defaults:
+  compiler_set: gcc_7.3.0
+compiler_sets:
+  gcc_7.3.0:
+    c: "/usr/bin/gcc"
+    cxx: "/usr/bin/g++"
+    fortran: "/usr/bin/gfortran"

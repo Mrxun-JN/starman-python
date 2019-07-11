@@ -1,0 +1,9 @@
+============================
+ cache_logging  Test Log
+============================
+Testing basic metadata cache logging functionality.
+Testing metadata cache log api calls                                   PASSED
+All Metadata Cache Logging tests passed.
+
+Finished testing cache_logging 
+============================

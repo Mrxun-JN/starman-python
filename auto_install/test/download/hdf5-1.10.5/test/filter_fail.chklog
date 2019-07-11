@@ -1,0 +1,10 @@
+============================
+ filter_fail  Test Log
+============================
+Testing data writing when a mandatory filter fails and chunk cache is enabled PASSED
+Testing data reading when a mandatory filter fails                     PASSED
+Testing data writing when a mandatory filter fails and chunk cache is disabled PASSED
+Testing data reading when a mandatory filter fails                     PASSED
+
+Finished testing filter_fail 
+============================

@@ -1,0 +1,12 @@
+============================
+ test_dset_append  Test Log
+============================
+Testing Append flush with H5DOappend()--append rows with default dapl  PASSED
+Testing Append flush with H5DOappend()--append rows                    PASSED
+Testing Append flush with H5DOappend()--append columns                 PASSED
+Testing Append flush with H5DOappend()--append rows & columns          PASSED
+Testing Append flush with H5DOappend()--append size < boundary size    PASSED
+Testing Append flush with H5DOappend()--append & boundary size vary    PASSED
+
+Finished testing test_dset_append 
+============================

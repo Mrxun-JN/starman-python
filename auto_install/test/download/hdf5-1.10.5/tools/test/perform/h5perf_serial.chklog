@@ -1,0 +1,55 @@
+============================
+ h5perf_serial  Test Log
+============================
+HDF5 Library: Version 1.10.5
+==== Parameters ====
+IO API=posix hdf5 
+Number of iterations=1
+Dataset size=100 200 
+Transfer buffer size=10 20 
+Page Aggregation Disabled
+Dimension access order=1 2 
+HDF5 data storage method=Contiguous
+HDF5 file driver=sec2
+Env HDF5_PREFIX=not set
+==== End of Parameters ====
+
+Transfer Buffer Size (bytes): 200
+File Size(MB): 0.02
+        IO API = POSIX
+            Write (1 iteration(s)):
+                Maximum Throughput:   7.60 MB/s
+                Average Throughput:   7.60 MB/s
+                Minimum Throughput:   7.60 MB/s
+            Write Open-Close (1 iteration(s)):
+                Maximum Throughput:   5.80 MB/s
+                Average Throughput:   5.80 MB/s
+                Minimum Throughput:   5.80 MB/s
+            Read (1 iteration(s)):
+                Maximum Throughput:  13.25 MB/s
+                Average Throughput:  13.25 MB/s
+                Minimum Throughput:  13.25 MB/s
+            Read Open-Close (1 iteration(s)):
+                Maximum Throughput:  13.18 MB/s
+                Average Throughput:  13.18 MB/s
+                Minimum Throughput:  13.18 MB/s
+        IO API = HDF5
+            Write (1 iteration(s)):
+                Maximum Throughput:  36.82 MB/s
+                Average Throughput:  36.82 MB/s
+                Minimum Throughput:  36.82 MB/s
+            Write Open-Close (1 iteration(s)):
+                Maximum Throughput:  10.57 MB/s
+                Average Throughput:  10.57 MB/s
+                Minimum Throughput:  10.57 MB/s
+            Read (1 iteration(s)):
+                Maximum Throughput:  62.31 MB/s
+                Average Throughput:  62.31 MB/s
+                Minimum Throughput:  62.31 MB/s
+            Read Open-Close (1 iteration(s)):
+                Maximum Throughput:  23.34 MB/s
+                Average Throughput:  23.34 MB/s
+                Minimum Throughput:  23.34 MB/s
+
+Finished testing h5perf_serial 
+============================

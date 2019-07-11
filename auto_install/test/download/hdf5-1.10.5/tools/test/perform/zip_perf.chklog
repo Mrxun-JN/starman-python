@@ -1,0 +1,36 @@
+============================
+ zip_perf  Test Log
+============================
+Filesize: 67108864
+Compression Level: 6
+Buffer size == 128KB
+	Uncompressed Write Time: 0.14s
+	Uncompressed Write Throughput: 468.73MB/s
+	Compression Ratio: 0.00113678
+	Compressed Write Time: 0.70s
+	Compressed Write Throughput: 92.05MB/s
+	Compression Time: 0.679138s
+Buffer size == 256KB
+	Uncompressed Write Time: 0.05s
+	Uncompressed Write Throughput: 1300.47MB/s
+	Compression Ratio: 0.00105667
+	Compressed Write Time: 0.60s
+	Compressed Write Throughput: 105.90MB/s
+	Compression Time: 0.602306s
+Buffer size == 512KB
+	Uncompressed Write Time: 0.06s
+	Uncompressed Write Throughput: 1010.37MB/s
+	Compression Ratio: 0.0010128
+	Compressed Write Time: 0.66s
+	Compressed Write Throughput: 96.29MB/s
+	Compression Time: 0.66288s
+Buffer size == 1MB
+	Uncompressed Write Time: 0.05s
+	Uncompressed Write Throughput: 1177.75MB/s
+	Compression Ratio: 0.000990868
+	Compressed Write Time: 0.67s
+	Compressed Write Throughput: 95.59MB/s
+	Compression Time: 0.668359s
+
+Finished testing zip_perf 
+============================

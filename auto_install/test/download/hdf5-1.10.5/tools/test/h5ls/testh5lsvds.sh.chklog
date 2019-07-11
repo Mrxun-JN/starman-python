@@ -1,0 +1,13 @@
+============================
+testh5lsvds.sh  Test Log
+============================
+Testing ../../src/h5ls/h5ls -w80 -v -S 1_vds.h5                        PASSED
+Testing ../../src/h5ls/h5ls -w80 -v -S 2_vds.h5                        PASSED
+Testing ../../src/h5ls/h5ls -w80 -v -S 3_1_vds.h5                      PASSED
+Testing ../../src/h5ls/h5ls -w80 -v -S 3_2_vds.h5                      PASSED
+Testing ../../src/h5ls/h5ls -w80 -v -S 4_vds.h5                        PASSED
+Testing ../../src/h5ls/h5ls -w80 -v -S 5_vds.h5                        PASSED
+All h5ls tests passed.
+
+Finished testing testh5lsvds.sh 
+============================

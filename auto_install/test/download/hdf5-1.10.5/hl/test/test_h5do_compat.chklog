@@ -1,0 +1,9 @@
+============================
+ test_h5do_compat  Test Log
+============================
+Testing H5DOwrite_chunk wrapper                                        PASSED
+Testing H5DOread_chunk wrapper                                         PASSED
+All direct chunk read/write wrapper tests passed.
+
+Finished testing test_h5do_compat 
+============================

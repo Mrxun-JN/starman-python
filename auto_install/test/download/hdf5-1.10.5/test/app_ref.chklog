@@ -1,0 +1,7 @@
+============================
+ app_ref  Test Log
+============================
+Testing library shutdown with reference count > 1                      PASSED
+
+Finished testing app_ref 
+============================

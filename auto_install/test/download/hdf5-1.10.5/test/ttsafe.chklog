@@ -1,0 +1,18 @@
+============================
+ ttsafe  Test Log
+============================
+Most thread-safety tests skipped because THREADSAFE not enabled
+
+For help use: /home/xun/auto_install/test/download/hdf5-1.10.5/test/.libs/ttsafe -help
+Linked with hdf5 version 1.10 release 5
+Testing  -- library threadsafe status (is_threadsafe) 
+
+
+All tests were successful. 
+
+
+Cleaning Up temp files...
+
+
+Finished testing ttsafe 
+============================
